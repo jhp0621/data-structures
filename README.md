@@ -1,3 +1,3 @@
 # data-structures
 
-My implementations of common data structures in JavaScript
+My implementations of common data structures & algorithms in JavaScript
