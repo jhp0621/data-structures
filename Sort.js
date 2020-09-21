@@ -50,7 +50,7 @@ function insertionSort(arr) {
   return arr;
 }
 
-//Merge Sort: best if we want to optimize time complexity
+//Merge Sort: best if you want to optimize time complexity
 //Time: Best O(n log n), Avg O(n log n), Worst O(n log n); Space: O(n)
 function merge(arr1, arr2) {
   let results = [],
