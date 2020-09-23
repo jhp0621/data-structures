@@ -129,7 +129,7 @@ class SinglyLinkedList {
   }
 }
 
-//Doubly Linked List: better than singly LL for finding nodes (searching) and can be done  in half the time (but it takes up more memory given the extra previous pointer)
+//Doubly Linked List: better than singly LL for finding nodes (searching) and can be done in half the time (but it takes up more memory given the extra previous pointer)
 //Insertion O(1); Removal O(1); Searching O(n)- technically O(n/2); Access O(n)
 class Node {
   constructor(val) {
